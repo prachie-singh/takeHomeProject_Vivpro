@@ -127,7 +127,8 @@ FLASK_HOST=0.0.0.0
 FLASK_PORT=5000
 ```
 ## Data Ingestion Service from JSON file
-- Run Command -> 
+- Run Command ->
+  
 source .env
 
 PYTHONPATH=. python3 scripts/ingestData.py
