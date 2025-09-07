@@ -86,7 +86,7 @@ takeHomeProject_Vivpro/
 
 3. **Install dependencies**
    ```bash
-   pip install flask psycopg2-binary pandas python-dotenv pytest
+   pip3 install requirements.txt
    ```
 
 4. **Set up PostgreSQL**
